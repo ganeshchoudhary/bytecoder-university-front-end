@@ -1,0 +1,39 @@
+.container4 img{
+    float: right;
+    width:50%;
+    padding:1em;
+    font-size: large;
+}
+.head{
+    position: absolute;
+   display: flex;
+   align-items: flex-start;
+    font-size:xx-large;
+   margin: 1em;
+    border: 1em;
+}
+.head a{
+    margin: -1em;
+    padding: 0em;
+    margin-left: 2em;
+    color: blueviolet;
+}
+.head2 h1{
+    font-family:serif;
+    font-size:1.7em;
+   word-spacing: 0.1em;
+}
+.head2 p{
+    word-spacing: 0.1em;
+    font-size: x-large;
+    font-family:serif;
+    text-align:start;
+   
+}
+.head2{
+    margin-left: -3.4em;
+    margin-top: -1em;
+    padding: 1em;
+    font-size: x-large;
+
+}

@@ -1,0 +1,36 @@
+.client1{
+    margin: 0.1em;
+    padding: 4em;
+    background-color:rgb(211, 208, 208);
+    color: rgb(0, 0, 0);
+    display: flex;
+    
+    justify-content: center;
+    font-size:small;
+    font-family:monospace;
+}
+
+.client2{
+    margin: 0.1em;
+    padding: 2em;
+    display: flex;
+    justify-content:space-around;
+    background-color:rgb(211, 208, 208);
+    color: rgb(0, 0, 0);
+    
+}
+.sub1{
+    font-family:fantasy;   
+}
+.sub2{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+.sub3{
+    font-family: 'Courier New', Courier, monospace;
+}
+.sub4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sub5{
+    font-family:serif;
+}
