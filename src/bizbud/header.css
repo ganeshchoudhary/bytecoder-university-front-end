@@ -1,0 +1,40 @@
+.bizbud{
+    font-size:x-large;
+}
+.heading{
+   margin: 1em;
+   padding: 3em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size:1em;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.bar-item{
+    
+    display: flex;
+    flex-direction: row;
+    font-size: larger;
+    padding-left: 0%;
+    width: fit-content;
+    color: black;
+    background-color:rgb(250, 250, 250);
+
+}
+.bar-item button{
+    background-color: blueviolet;
+    padding: 0.8em;
+    padding-left: 1.5em;
+    padding-right:1.5em;
+    color: aliceblue;
+    margin-right: 2em;
+    margin-left: 5em;
+    font-size: large;
+    font-family: sans-serif;
+    border-radius: 1.5em;
+    border: none;
+}
+.bar-item div{
+    padding-right:2em;
+   
+}
