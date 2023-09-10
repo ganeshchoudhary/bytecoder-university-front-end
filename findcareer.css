@@ -1,0 +1,29 @@
+.findcareer1 img{
+    float: right;
+
+}
+.findtext {
+text-align: start;
+padding: 2em;
+margin-left: 2em;
+}
+.findtext h1{
+    font-size: 2.8em;
+    color: rgb(53, 49, 49);
+}
+.findtext p{
+    font-size: 1.3em;
+}
+.findtext2{
+    padding: 0.5em;
+}
+.findtext button{
+
+    padding: 1.4em;
+    background-color:rgb(0,86,210) ;
+    color: white;
+    border: none;
+    border-radius: 0.2em;
+    font-weight: bold;
+    
+}

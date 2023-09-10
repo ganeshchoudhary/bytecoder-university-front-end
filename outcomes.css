@@ -1,0 +1,136 @@
+.outcomebg{
+    background-color: rgb(235,243,255);
+    
+}
+.outcomebg1 img{
+    margin-top: -2em;
+}
+.outcometext h1{
+    font-size: 3em;
+    font-family: sans-serif;
+    font-weight: 400;
+    
+}
+.outcometext1 {
+    font-size: 1.3em;
+    text-align: start;
+    display: flex;
+    justify-content: center;
+    color: rgb(61, 61, 61);
+    margin-left: -7em;
+    margin-top: -1em;
+
+}
+.outcometext1 a{
+    color:rgb(0,86,210);
+}
+
+.outcomeclick button{
+    background-color:rgb(0,86,210) ;
+    color: white;  
+   padding: 1.2em;
+   border: none;
+   border-radius: 0.2em;
+   font-weight: bold;
+   font-size: 1em;
+   margin-left: -33em;
+}
+.outcomeclick{
+    padding: 1.5em;
+}
+.community {
+   padding: 3em;
+   font-size: 1.7em;
+  
+}
+.communitycolumn{
+   display: flex;
+   justify-content: space-around;
+   padding: 5em;
+    margin-top: -4em;
+}
+.communitycolumn1 p{
+    color: rgb(66, 66, 66);
+    font-size: 1.4em;
+}
+.communitycolumn1 h5{
+    font-size: 1em;
+    color: grey;
+}
+.communitycolumn h2{
+    color: rgb(62,51,142);
+}
+.solution1{
+    float: left;
+    
+}
+.idealsolution{
+    background-color: rgb(238,238,238);
+    padding: 7em;
+    margin-top: 3em;
+}
+.solutionimages{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    gap: 1px;
+    background-color: #eeeeee;
+    padding: 10px;
+ 
+   
+}
+.solutionimages div{
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 2em;
+}
+.solution1{
+   padding: 1em;
+margin-top: -3em;
+   text-align: start;
+}
+.solution1 h1{
+    font-size: 3em;
+    font-weight: 500;
+}
+.solution1 button{
+    background-color:rgb(0,86,210) ;
+    color: white;  
+   padding: 1.5em;
+   border: none;
+   border-radius: 0.2em;
+   font-weight: bold;
+   font-size: 1em;
+}
+.solution1 p{
+    font-size: 1.2em;
+}
+
+.goal1 h1{
+    font-size: 2.8em;
+    font-weight: 500;
+}
+.goal1 p{
+    font-size: 1.2em;
+}
+.goal1 button{
+    background-color:rgb(0,86,210) ;
+    color: white;  
+   padding: 1.5em;
+   border: none;
+   border-radius: 0.2em;
+   font-weight: bold;
+   font-size: 1em;  
+}
+.goal1{
+   padding: 1em;
+   margin-top: -1em;
+   margin-left: 3em;
+    text-align: start;
+}
+.goalcover{
+    display: flex;
+    padding: 5em;
+   height: 25em;
+}

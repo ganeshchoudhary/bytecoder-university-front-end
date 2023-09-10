@@ -1,0 +1,79 @@
+.universitytextline img{
+    float: right;
+    width: 50em;
+    
+}
+.universitytextline h1{
+    font-size: 2.6em;
+    color: rgb(49, 47, 47);
+   
+}
+.universitytextline button{
+    margin-top: 4em;
+    padding: 1.2em;
+    background-color:rgb(0,86,210) ;
+    color: white;
+    border: none;
+    border-radius: 0.2em;
+    font-weight: bold;
+    width: 10em;  
+}
+.universitytextline1 {
+    padding: 2em;
+    text-align: start;
+    font-size: 1.5em;
+}
+.collegeuniversity img{
+    float: right;
+    width: 40em;
+    padding: 2em;
+}
+.collegeuniversity h1{
+    font-size: 3em;
+    color: rgb(49, 47, 47);
+    padding: 4em;
+    text-align: start;
+    margin-left: -2em;
+}
+.careeracademy {
+    background-color: rgb(238,238,238);
+    padding: 3em;
+}
+.careeracademy1{
+ text-align: start;
+ display: flex;
+ flex-direction: column;
+ padding: 6em;
+ margin-top: -4em;
+}
+.careeracademy img{
+    background-color: rgb(238,238,238);
+    float: left;
+    border-radius: 0.8em;
+    height: 30em;
+    margin-top: 3em;
+}
+.careeracademy1 h1{
+  font-size: 2.8em;
+}
+.careeracademy1 span{
+    color: rgb(0,86,210);
+    margin: 1em;
+}
+.videoplayer video{
+    float: right;
+    padding: 3em;  
+    margin-top: 2em; 
+}
+.videoplayer1{
+    text-align: start;
+    padding: 2em;
+    margin: 3em;
+    color: rgb(49, 47, 47);
+}
+.videoplayer1 h1{
+    font-size: 3em;
+}
+.videoplayer1 p{
+    font-size: 1.2em;
+}

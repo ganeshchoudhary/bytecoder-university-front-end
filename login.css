@@ -1,0 +1,45 @@
+.login{
+   display: flex;
+   justify-content: center;
+   margin-top: 3em;
+  
+}
+.login1{
+    border: 1px double rgb(51, 51, 51);
+    border-radius: 0.3em;
+    width: 32em;
+    height: 31em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.login1 label{
+    display: flex;
+    padding: 1em;
+    margin-left: 3.5em;
+}
+.login1 input{
+    padding: 1.3em;
+    width: 25em;
+}
+.login1 button{
+    display: flex;
+    justify-content: center;
+    background-color:rgb(0,86,210);
+    border:none;
+    padding: 1.5em;
+    color:  white;
+    text-align: center;
+    border-radius: 0.2em;
+    width: 27em;  
+}
+
+.loginbutton{
+    padding: 3em;
+    margin-left: 1.2em;
+}
+.login1 h1{
+    text-align: center;
+}
+.login1 input{
+    margin-left: 5em;
+}

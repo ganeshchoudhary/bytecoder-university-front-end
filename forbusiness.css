@@ -1,0 +1,145 @@
+.businessnavtop{
+   display: flex;
+   justify-content: space-around;
+
+}
+.leftselect {
+    display: flex; 
+    margin-left: -4em;
+    border: none;
+}
+.lefthead h2{
+    font-size: 2em;
+    font-weight: 300;
+    color:rgb(0,86,210) ;
+}
+.why{
+   padding: 1em;
+}
+.solutions{
+     padding: 1em;
+}
+.resourses{
+    padding: 1em;
+}
+.leftselect select{
+    border: none;
+    font-size: 1em;
+}
+.leftlink {
+    padding: 2.3em; 
+}
+.leftlink a{
+    padding: 1em;  
+    border: none;
+    color: black; 
+}
+.rightbutton{
+    padding: 2em;
+}
+.rightbutton button{
+    padding: 1.2em;
+    background-color:rgb(0,86,210) ;
+    color: white;
+    border: none;
+    border-radius: 0.2em;
+    font-weight: bold;
+    width: 10em; 
+}
+.compimage img{
+    float: right;
+    width: 45em;
+}
+.competitivetext {
+    background-color: rgb(238,238,238);
+    text-align: start;
+    padding: 3em;
+    margin-left: 0em;
+}
+.competitivetext h1{
+    font-size: 4.5em;
+    color: rgb(48, 46, 46);
+}
+.competitivetext p{
+    font-size: 1.2em;
+}
+.competitivetext span{
+color:rgb(0,86,210) ;
+}
+.competitivetext button{
+    margin-top: 4em;
+    padding: 1.2em;
+    background-color:rgb(0,86,210) ;
+    color: white;
+    border: none;
+    border-radius: 0.2em;
+    font-weight: bold;
+    width: 10em; 
+}
+
+.idealsolution1{
+ 
+    padding: 3em;
+    margin-top: 3em;
+}
+.solutionimages1{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    gap: 1px;
+    padding: 10px;   
+}
+.solutionimages1 div{
+   
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 2em;
+}
+.solution2{
+    float: right;
+    font-size: 1.5em;
+    text-align: start;
+    padding: 1em;
+}
+.upskillimage img{
+    float: right;
+    width: 35em;
+    padding: 2em;
+}
+.upskill{
+    background-color: rgb(238,238,238);
+}
+.uskilltextmain{
+    text-align: start;
+    padding: 2em;
+    margin-left: 4em;
+}
+.upskillhead span{
+ color: rgb(0,86,210);
+ padding: 1em;
+}
+.bestimage img{
+    float: left;
+    padding: 4em;
+}
+.besttext{
+    padding: 3em;
+    text-align: start;
+}
+.besttext h1{
+font-size: 3em;
+}
+.besttext h4{
+    font-size: 1.3em;
+}
+.besttext h5{
+    font-size: 1.3em;
+}
+.besttext span{
+    color: rgb(0,86,210);
+ padding: 1em;
+}
+.searchbar1{
+    padding: 2em;
+    display: flex;
+}

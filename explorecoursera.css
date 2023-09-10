@@ -1,0 +1,35 @@
+.explore1{
+    border: 1px solid white;
+    border-radius: 0.4em;
+    width: 25em;
+    height: 5em;
+    margin-left: 3em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: start;
+}
+.explore1 img{
+    position: relative;
+    border: 1px;
+    width:80px;
+    height: 5em;
+    border-radius: 0.3em;
+}
+.explore1 h3{
+    margin-top: -3.5em;
+    margin-left: 5em;
+}
+.explore1 p{
+    margin-top: -1em;
+    margin-left: 6em;
+}
+.explorecourse1{
+    display: flex;
+    padding: 1em;
+}
+.degreecoursera h1{
+    display: flex;
+    font-size: 2.9em;
+    letter-spacing: 0.1em;
+    margin-left: 1.4em;
+    font-weight: 400;
+}
